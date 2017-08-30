@@ -10,9 +10,9 @@ int main ()
 {
     Table sample(3 , 2);
 
-    sample.getCell(0 , 0).setValue("ayy lmaooo");
-    sample.getCell(0 , 1).setValue(5);
-    sample.getCell(1 , 0).setValue("fuck");
+    sample.getCell(0 , 0).setValue("ayy lmao");
+    sample.getCell(0 , 1).setValue(5.43);
+    sample.getCell(1 , 0).setValue("firetruck");
     sample.getCell(1 , 1).setValue(1337);
     sample.getCell(2 , 0).setValue(42);
     sample.getCell(2 , 1).setValue(5.5583);
