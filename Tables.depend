@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1504043304 source:d:\programming\tables\src\cell.cpp
+	"include/Cell.h"
+	"include/ValueTypeEnum.h"
+	<iostream>
+	<string.h>
+
+1504042287 d:\programming\tables\\include\cell.h
+	<iostream>
+	<cstdio>
+	"ValueTypeEnum.h"
+
+1503411413 d:\programming\tables\\include\valuetypeenum.h
+
+1504091338 source:d:\programming\tables\src\test.cpp
+	"include/Table.h"
+	"include/TablePrinter.h"
+	<stdlib.h>
+	<cstdio>
+
+1503410963 source:d:\programming\tables\src\valueconverter.cpp
+	"include/ValueConverter.h"
+
+1503410911 d:\programming\tables\\include\valueconverter.h
+	"include/Cell.h"
+
+1504090666 source:d:\programming\tables\src\table.cpp
+	"include/Table.h"
+
+1504089771 d:\programming\tables\\include\table.h
+	<stdlib.h>
+	<cstdio>
+	<string.h>
+	"include/Cell.h"
+	"include/ValueConverter.h"
+
+1504099144 source:d:\programming\tables\src\tableprinter.cpp
+	"include/TablePrinter.h"
+
+1504109906 d:\programming\tables\\include\tableprinter.h
+	"include/Table.h"
+	"include/Cell.h"
+
+1504099152 source:d:\programming\tables\src\application.cpp
+	"include/Application.h"
+
+1504100156 d:\programming\tables\\include\application.h
+	"include/TableFile.h"
+	"include/Table.h"
+	"include/TablePrinter.h"
+
+1503338568 d:\programming\tables\\include\tablefile.h
+	<fstream>
+	"include/Table.h"
+
